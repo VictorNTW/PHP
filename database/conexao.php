@@ -1,5 +1,5 @@
 <?php
-function connectionDB()
+function conexao_db()
 {
     $db =  'mysql:
                 host=localhost;
